@@ -1,2 +1,2 @@
-# competitive-coding
+# Opensource Competitive-Coding
 Solutions to coding questions
